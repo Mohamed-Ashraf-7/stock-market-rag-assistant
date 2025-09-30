@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-google-genai
+langchain-chroma
+pypdf
+python-dotenv
+google-generativeai
+tiktoken
